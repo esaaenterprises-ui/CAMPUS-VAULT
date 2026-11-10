@@ -1,0 +1,6 @@
+{
+  "name": "CampusVault UAE — Circular Student Logistics & Dorm-Hardware Platform",
+  "description": "Circular student valet micro-storage and 9-month PAT-certified dorm appliance leasing platform for UAE universities, featuring a dynamic partner grant engine, Digital Vault Pass generator, and Google Docs integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
